@@ -5,7 +5,7 @@
 [![Web Site](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](clodoaldovalentim123@gmail.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=clodoaldo-valentim" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=clodoaldo-valentim" />
 </a>
 <a href="https://github.com/clodoaldo-valentim/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clodoaldo-valentim&layout=compact&langs_count=8&card_width=300" />
