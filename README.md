@@ -4,7 +4,14 @@
 [![Email](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aprendaaquicursos.com.br)
 [![Web Site](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](clodoaldovalentim123@gmail.com)
 
-![Clodoaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=clodoaldo-valentim&theme=dark&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=clodoaldo-valentim" />
+</a>
+<a href="https://github.com/clodoaldo-valentim/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clodoaldo-valentim&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 
 ## Minhas tecnologias:
 <div style="display: inline_block"><br>
